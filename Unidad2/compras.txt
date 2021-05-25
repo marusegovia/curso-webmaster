@@ -1,4 +1,3 @@
-manzanas
-bananas
-naranjas
-frutillas
+libros
+mangas
+stickers
